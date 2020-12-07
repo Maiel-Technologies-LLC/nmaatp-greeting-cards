@@ -1,1 +1,1 @@
-# nmaatp-greeting-cards
+# nmaatp-mail-designs
