@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+}
+
+.logo {
+    max-width: 250px;
+}
+
+.banner-section {
+    margin-top: -55px;
+    z-index: -10;
+    padding: 200px 200px;
+    background-image: url('./images/Group2.png');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #ECEBE6;
+}
+
+.content-section {
+    background-color: #ECEBE6;
+    background-image: url('./images/Content.png');
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 200px 0px;
+    font-size: 25px;
+    padding-left: 120px;
+    padding-right: 270px;
+}
+
+.footer {
+    background-color: #222222;
+    color: #ffffff;
+}
